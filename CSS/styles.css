@@ -2,3 +2,7 @@ body{
     background-color: rgb(188, 42, 211);
     font-family: Arial, Helvetica, sans-serif;
 }
+
+main{
+    color: aqua;
+}
